@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.redmi-row{
+    display: flex;
+
+
+
+}
+.redmi-col{
+    width: 50%;
+}
+.redmi-col1{
+    width: 70%;
+    padding-left: 70px;
+}
+.submit-redmi{
+    margin-left: 40px;
+    margin-top: 20px;
+   
+}
+.buy{
+    font-size: 18px;
+    height: 60px;
+    width: 240px;
+    background-color: orange;
+    outline: none;
+    border: none;
+    color: black;
+   
+}.redmi-box{
+    height: 500px ;
+    width: 400px;
+    border: 1px solid grey;
+    margin-left: 70px;
+    position: relative;
+    
+}
+.redmi-container{
+    margin-top: 80px;
+}
+.redmi-img1{
+    
+    
+    position: absolute;
+    top: 90px;
+    right: 60px;
+    
+    
+
+}
+.redmi-col1{
+    position: relative;
+
+}
+.spec{
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    bottom: 280px;
+    right: 100px;
+    
+}
+.head-re{
+    margin-right: 30px;
+    margin-top: 150px;
+    font-family: "Prompt", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 20px;
+}
+tr{
+    border: 1px solid black;
+}
+
+th{
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-left: 60px;
+    font-size: 20px;
+    font-family: "Prompt", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 20px;
+}
+td{
+    border: 1px solid black;
+    padding-top: 5px;
+    font-family: "Prompt", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 16px;
+    color: gray;
+}
+
+
+li{
+    list-style-type: none;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.list-color{
+    font-family: "Prompt", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 15px;
+    color: black;
+
+}
+.General{
+    font-size: 30px;
+}
+table{
+    margin-top: 50px;
+}
+.description{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.h1{
+   padding-left: 120px;
+   font-family: "Prompt", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 20px;
+}
+.p1{
+    margin-top: 25px;
+    font-family: "Prompt", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 18px;
+    color: grey;
+}
+

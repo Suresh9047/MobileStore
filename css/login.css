@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.input-login{
+    text-align: center;
+    position: relative;
+    bottom: 70px;
+    
+}
+    .loginh2{
+    text-align: center;
+    margin-top: 90px;
+    padding-top: 60px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 50px;
+    color: aquamarine;
+    position: relative;
+    top: 70px;
+}
+.label-login{
+    margin-top: 30px;
+}
+.label1{
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+
+}
+.label1{
+    font-size: 22px;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+.login-box{
+    border: none;
+    width: 39%;
+    height: 650px;
+    margin-top: 30px;
+    margin-left: 440px;
+    background-color: white;
+    border-radius: 40px;
+    box-shadow: 0px 0px 5px 2px grey;
+    
+}
+.form-login{
+    padding-bottom: 40px;
+}
+.label2{
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 29px;
+    
+}
+.label2{
+    font-size: 22px;
+    font-weight: 500;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-family: "Josefin Sans", sans-serif;
+
+    
+
+}
+.body1{
+    background-color: #f9f9f9;
+}
+.forget{
+    font-size: 20px;
+    color: grey;
+    padding-top: 10px;
+    
+}
+.forget a{
+    text-decoration: none;
+}
+.title-logib{
+    margin-bottom: 20px;
+}
+.login-submit{
+    font-size: 22px;
+    height: 30px;
+    width: 120px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 10px;
+    background-color: palevioletred;
+    outline: none;
+    color: white;
+}
+.p-log{
+    font-size: 25px;
+    font-weight: 300;
+    font-style: normal;
+    position: relative;
+    left: 155px;
+    bottom: 40px;
+
+}
+.login-span{
+    color: grey;
+}
+.imegeslo{
+    height: 450px;
+    width: 600px;
+    position: relative;
+    top: 30px;
+    
+     
+}
+.Register-box{
+    background-color: #f9f9f9;
+    width: 50%;
+    margin-left: 20%;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px 2px grey;
+    
+}
+.Register-label{
+    margin-left: 150px;
+    margin-top: 10px;
+    
+}
+.Register-label1{
+    margin-left: 190px;
+    margin-top: 10px;
+   
+
+}
+.input-label1{
+    width: 300px;
+    height: 30px;
+    padding-bottom: 30px;
+}
+.reg-img{
+    position: relative;
+    bottom: 70px;
+    left: 100px;
+    width: 500px;
+    height: 400px;
+    margin-bottom: 60px;
+}
+.form-register{
+    
+}
+.div-register{
+    position: relative;
+    bottom: 200px;
+    left: 50px;
+}
+.input-label{
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+}
+.register-p{
+    font-size: 20px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: grey;
+}
+.select{
+    height: 30px;
+    width: 60px;
+    position: relative;
+    left: 185px;
+    
+
+}
+.input-label2{
+    width: 250px;
+    height: 30px;
+    margin-left: 190px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.register-p1{
+    font-size: 20px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: grey;
+    position: relative;
+    top: 30px ;
+    left: 260px;
+}
+.otp{
+    font-size: 18px;
+    height: 30px;
+    width: 120px;
+    position: relative;
+    bottom: 10px;
+    background-color: rgb(128, 90, 235);
+    outline: none;
+    color: black;
+    margin-top: 40px;
+    margin-left: 160px;
+    border-radius: 5px;
+}

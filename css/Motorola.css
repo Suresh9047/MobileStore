@@ -1,0 +1,405 @@
+.apple-container {
+    width: 90%;
+    margin: auto;
+    background-color: rgb(246, 233, 235);
+}
+
+.apple-row1 {
+    width: 100%;
+}
+
+.phone-img {
+    margin-top: 30px;
+
+}
+
+.ban {
+    width: 300px;
+    height: 300px;
+}
+
+.apple-col-box {
+    box-shadow: 1px 1px 5px 2px gray;
+    border-radius: 9px;
+    /* width: 10%; */
+    background-color: white;
+
+}
+
+.ban {
+    width: 100%;
+    height: 300px;
+}
+
+.A133 {
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    padding-top: 40px;
+    padding-left: 20px;
+    color: black;
+
+}
+
+.banner-apple {
+    margin-top: 10px;
+
+}
+
+/* .A13h6{
+    font-size: 29px;
+    text-align: center;
+    padding-top: 20px;
+}
+.money{
+    font-size: 20px;
+    color: grey;
+    text-decoration: line-through;
+}
+p{
+    text-align: center;
+    font-size: 25px;                   
+}
+.buy{
+    font-size: 18px;
+    height: 48px;
+    width: 180px;
+    position: relative;
+    right: 41px;
+    background-color: orange;
+    outline: none;
+    border: none;
+    color: white;
+    font-family: "Kanit", sans-serif;
+    font-weight: 700;                                              
+    border-radius: 5px;       
+}  */
+.premiumphone {}
+
+.buy:hover {
+    background-color: blue;
+    color: white;
+}
+
+.delivery-container {
+    margin-top: 20px;
+}
+
+.delivery-row {
+    display: flex;
+    background-color: #fd7e14;
+}
+
+.delivery-col {
+    width: 100%;
+    margin-top: 30px;
+    margin-left: 40px;
+    display: flex;
+    height: 100px;
+
+}
+
+.delivery-icon {
+    display: flex;
+
+}
+
+.roc {
+    font-size: 65px;
+    color: white;
+}
+
+.delivery-head {
+    margin-top: 10px;
+}
+
+.h1delivery {
+    font-size: 22px;
+    color: white;
+}
+
+.h4delivery {
+    font-size: 20px;
+    color: white;
+
+}
+
+.delivery-container {
+    margin-top: 40px;
+    width: 100%;
+
+}
+
+@media(min-width: 320px) {
+
+
+    .apple-row1 {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .apple-col-box {
+        width: 29%;
+        /* height: 300px; */
+        /* margin-left: 40px; */
+        position: relative;
+        margin-top: 10px;
+
+
+
+    }
+
+    .premiumphone img {
+        width: 65%;
+        margin-left: 50px;
+        margin-top: 10px;
+
+
+    }
+
+    .phone-img {
+        height: 60px;
+        width: 40px;
+        position: relative;
+        left: 30px;
+    }
+
+    .A13h6 {
+        font-size: 15px;
+        text-align: center;
+        padding-top: 15px;
+    }
+
+    .A13 {
+        font-family: "Kanit", sans-serif;
+        font-weight: 600;
+        font-size: 10px;
+        padding-top: 10px;
+        padding-left: 9px;
+        color: black;
+
+    }
+
+    .money {
+        font-size: 10px;
+        color: grey;
+        text-decoration: line-through;
+    }
+
+    p {
+        text-align: center;
+        font-size: 10px;
+    }
+
+    .buy {
+        font-size: 7px;
+        height: 20px;
+        width: 70px;
+        position: relative;
+       
+        background-color: orange;
+        outline: none;
+        border: none;
+        color: white;
+        font-family: "Kanit", sans-serif;
+        font-weight: 700;
+        border-radius: 5px;
+    }
+
+}
+
+@media(min-width: 760px) {
+
+    .apple-container {
+        width: 100%;
+        margin: auto;
+    }
+
+    .apple-row1 {
+        display: flex;
+        flex-wrap: wrap;
+
+    }
+
+    .apple-col-box {
+        width: 23%;
+
+
+
+
+    }
+
+
+    .premi {
+        margin-left: 180px;
+    }
+
+    .premiumphone img {
+        width: 65%;
+        margin-left: 50px;
+        margin-top: 10px;
+
+
+    }
+
+    .phone-img {
+        height: 100px;
+        width: 80px;
+        margin-left: px;
+        /* position: relative;
+     right: 80px; */
+        /* position: relative;
+     right: 20px;   */
+    }
+
+    .A13h6 {
+        font-size: 20px;
+        text-align: center;
+        padding-top: 15px;
+    }
+
+    .A13 {
+        font-family: "Kanit", sans-serif;
+        font-weight: 600;
+        font-size: 15px;
+        padding-top: 10px;
+        padding-left: 9px;
+        color: black;
+
+    }
+
+    .money {
+        font-size: 15px;
+        color: grey;
+        text-decoration: line-through;
+    }
+
+    p {
+        text-align: center;
+        font-size: 10px;
+    }
+
+    .buy {
+        font-size: 16px;
+        height: 30px;
+        width: 100px;
+        position: relative;
+        right: 30px
+        background-color: orange;
+        outline: none;
+        border: none;
+        color: white;
+        font-family: "Kanit", sans-serif;
+        font-weight: 700;
+        border-radius: 5px;
+    }
+
+}
+
+@media(min-width: 1020px) {
+
+    .apple-container {
+        width: 100%;
+        margin: auto;
+    }
+
+    .apple-row1 {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+
+    }
+
+    .apple-col-box {
+        width: 21%;
+        margin-left: 25px;
+        margin-top: 40px;
+        border-radius: 20px;
+
+
+    }
+
+    .premiumphone img {
+        width: 100%;
+        /* margin-left: 120px; */
+
+    }
+
+    /* .phone-img {
+        height: 190px;
+        width: 160px;
+
+    } */
+
+    
+
+    .premiumphone img {
+        width: 75%;
+        margin-left: 120px;
+        margin-top: 10px;
+
+
+    }
+     .premi{
+        margin-left: 120px;
+        width: 75%;
+    }
+
+    .phone-img {
+        height: 190px;
+        width: 160px;
+        /* margin-left: 44px; */
+        /* position: relative;
+         right: 80px; */
+         position: relative;
+         right: 60px;   
+    }
+
+    .A13h6 {
+        font-size: 25px;
+        text-align: center;
+        padding-top: 15px;
+    }
+
+    .A13 {
+        font-family: "Kanit", sans-serif;
+        font-weight: 600;
+        font-size: 25px;
+        padding-top: 17px;
+        padding-left: 15px;
+        color: black;
+
+    }
+
+    .money {
+        font-size: 20px;
+        color: grey;
+        text-decoration: line-through;
+    }
+
+    p {
+        text-align: center;
+        font-size: 22px;
+        padding-top: 10px;
+    }
+
+    .buy {
+        font-size: 20px;
+        height: 40px;
+        width: 180px;
+        /* margin-left: 43px; */
+        background-color: orange;
+        outline: none;
+        border: none;
+        color: white;
+        position: relative;
+        right: 22px;
+        font-family: "Kanit", sans-serif;
+        font-weight: 700;
+        border-radius: 5px;
+    }
+
+}
+
